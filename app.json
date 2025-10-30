@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "ecommerce-laravel-api-nepali",
-    "slug": "ecommerce-laravel-api-nepali",
+    "name": "react-native-ecommerce-app",
+    "slug": "react-native-ecommerce-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ecommercelaravelapinepali",
+    "scheme": "reactnativeecommerceapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
